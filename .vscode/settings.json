@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}/virenv/bin/python",
+    "python.linting.pylintEnabled": false
+}
